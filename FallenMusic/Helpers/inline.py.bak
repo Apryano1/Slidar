@@ -51,14 +51,14 @@ pm_buttons = [
     ],
     [InlineKeyboardButton(text="ʜᴇʟᴩ & ᴄᴏᴍᴍᴀɴᴅs", callback_data="fallen_help")],
     [
-        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="𓏺 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 .", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="𓏺 𝖦𝗋𝗈𝗎𝗉 .", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="❄ ᴄʜᴀɴɴᴇʟ² ❄", url="https://t.me/ccszcc"
+            text="𓏺 𝖢𝗁𝖺𝗇𝗇𝖾𝗅² .", url="https://t.me/c8_8x"
         ),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="𓏺 𝖮𝗐𝗇𝖾𝗋 .", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -71,14 +71,14 @@ gp_buttons = [
         )
     ],
     [
-        InlineKeyboardButton(text="❄ ᴄʜᴀɴɴᴇʟ ❄", url=config.SUPPORT_CHANNEL),
-        InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT),
+        InlineKeyboardButton(text="𓏺 𝖢𝗁𝖺𝗇𝗇𝖾𝗅 .", url=config.SUPPORT_CHANNEL),
+        InlineKeyboardButton(text="𓏺 𝖦𝗋𝗈𝗎𝗉 .", url=config.SUPPORT_CHAT),
     ],
     [
         InlineKeyboardButton(
-            text="❄ ᴄʜᴀɴɴᴇʟ² ❄", url="https://t.me/ccszcc"
+            text="𓏺 𝖢𝗁𝖺𝗇𝗇𝖾𝗅² .", url="https://t.me/c8_8x"
         ),
-        InlineKeyboardButton(text="🥀 ᴅᴇᴠᴇʟᴏᴩᴇʀ 🥀", user_id=config.OWNER_ID),
+        InlineKeyboardButton(text="𓏺 𝖮𝗐𝗇𝖾𝗋 .", user_id=config.OWNER_ID),
     ],
 ]
 
@@ -102,7 +102,7 @@ helpmenu = [
 
 
 help_back = [
-    [InlineKeyboardButton(text="✨ sᴜᴩᴩᴏʀᴛ ✨", url=config.SUPPORT_CHAT)],
+    [InlineKeyboardButton(text="𓏺 𝖦𝗋𝗈𝗎𝗉 .", url=config.SUPPORT_CHAT)],
     [
         InlineKeyboardButton(text="ʙᴀᴄᴋ", callback_data="fallen_help"),
         InlineKeyboardButton(text="ᴄʟᴏsᴇ", callback_data="close"),
