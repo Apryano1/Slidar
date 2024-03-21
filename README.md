@@ -4,7 +4,7 @@ POWERFUL MUSIC BOT
 ━━━━━━━━━━━━━━━━━━━━
 
 <h2 align="center">
-    ──「 SliDaR MusiC 」──
+    ──「 SliDaR Music 」──
 </h2>
 
 <p align="center">
