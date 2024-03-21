@@ -8,7 +8,7 @@ POWERFUL MUSIC BOT
 </h2>
 
 <p align="center">
-  <img src="https://te.legra.ph/file/1f070ea3147e2a3ef44e4.jpg">
+  <img src="https://graph.org/file/59e554cd058b1037e70dd.jpg">
 </p>
 
 _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴏʟɪᴠɪᴀ ✘ ᴍᴜsɪᴄ](https://t.me/OliviaMusicRoBot)**_
@@ -26,7 +26,7 @@ _**ᴀᴠᴀɪʟᴀʙʟᴇ ᴏɴ ᴛᴇʟᴇɢʀᴀᴍ ᴀs [ᴏʟɪᴠɪᴀ ✘
 ━━━━━━━━━━━━━━━━━━━━
 
 <p align="center">
-  <img src="https://telegra.ph/file/5c2babbf5aee1826ed258.jpg">
+  <img src="https://graph.org/file/59e554cd058b1037e70dd.jpg">
 </p>
 
 <p align="center">
@@ -71,7 +71,7 @@ Press `Ctrl+C` when you're done with editing env and `:wq` to save the env<br>
 Press `Ctrl+b` and then `d`
 
 <p align="center">
-  <img src="https://te.legra.ph/file/b09cdfe8fb553fdd976eb.jpg">
+  <img src="https://graph.org/file/59e554cd058b1037e70dd.jpg">
 </p>
 
 </details>
